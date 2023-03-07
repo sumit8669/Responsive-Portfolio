@@ -19,5 +19,3 @@ The skills section highlights the portfolio owner's expertise and proficiency in
 The about me section provides a brief biography or personal statement that introduces the portfolio owner to visitors and explains their motivation and values. This section can also include a photo, links to social media profiles, and other personal details that help create a connection with the audience.
 
 Finally, the contact section offers a way for visitors to get in touch with the portfolio owner, using a contact form, email address, or phone number. This section should be easy to find and use, and it should include clear instructions on how to initiate a conversation.
-
-Overall, a responsive portfolio is a powerful tool for building a professional reputation, showcasing one's talents and accomplishments, and attracting potential clients or employers. By using a user-friendly design, engaging content, and effective communication strategies, a responsive portfolio can help the portfolio owner stand out in a competitive market and achieve their goals.
