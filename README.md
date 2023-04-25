@@ -16,6 +16,4 @@ In the projects section, the portfolio owner displays their past work and accomp
 
 The skills section highlights the portfolio owner's expertise and proficiency in different areas, such as design, programming, writing, marketing, or photography. It can include a list of skills, certifications, awards, and other relevant information that showcases the portfolio owner's talent and potential.
 
-The about me section provides a brief biography or personal statement that introduces the portfolio owner to visitors and explains their motivation and values. This section can also include a photo, links to social media profiles, and other personal details that help create a connection with the audience.
-
 Finally, the contact section offers a way for visitors to get in touch with the portfolio owner, using a contact form, email address, or phone number. This section should be easy to find and use, and it should include clear instructions on how to initiate a conversation.
